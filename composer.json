@@ -1,0 +1,9 @@
+{
+    "name": "brenno-duarte/pagarme-creditcard",
+    "description": "API customizada para receber pagamentos da PagarMe",
+    "autoload": {
+        "psr-4": {
+            "PagarMeAPICreditCard\\": "src/"
+        }
+    }
+}
