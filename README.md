@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/solital/core/releases"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/solital/core?style=flat-square"></a>
-  <a href="https://github.com/solital/core/blob/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/solital/core?style=flat-square"></a>
+  <a href="https://github.com/brenno-duarte/pagarme-creditcard/releases"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/brenno-duarte/pagarme-creditcard?style=flat-square"></a>
+  <a href="https://github.com/brenno-duarte/pagarme-creditcard/blob/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/brenno-duarte/pagarme-creditcard?style=flat-square"></a>
 </p>
 
 ## Sobre
@@ -43,4 +43,4 @@ var_dump($pagarme->getResponse());
 
 ## License
 
-[MIT](https://github.com/solital/solital/blob/master/LICENSE)
+[MIT](https://github.com/brenno-duarte/pagarme-creditcard/blob/master/LICENSE)
