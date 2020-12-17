@@ -1,6 +1,7 @@
 {
     "name": "brenno-duarte/pagarme-creditcard",
     "description": "API customizada para receber pagamentos da PagarMe",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "PagarMeAPICreditCard\\": "src/"
